@@ -7,4 +7,5 @@ public class MarathonDiscoverySettings {
     private String marathonEndpoint;
     private String appId;
     private Integer portIndex;
+    private Integer discoveryRateInSeconds;
 }
