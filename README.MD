@@ -1,0 +1,1 @@
+# Spring-Boot starter with providers for embedded Hazelcast Marathon discovery
